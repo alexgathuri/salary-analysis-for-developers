@@ -41,6 +41,11 @@ Wanjiru Kinyara
 
 
 # Contact information
+* Raphael Blaize: [Email](mailto:blaize433@gmail.com)
+* Wanjiru Kinyara: [Email](mailto:wanjirukinyara@gmail.com)
+* Alex Gathuri: [Email](mailto:gathurialex4@gmail.com)
+* Joseph Kirika: [Email](mailto:josephkirika31@gmail.com)
+* Norah Ekuttan: [Email](mailto:norahnaroh@gmail.com)
 
 
 # License and Copyright information
