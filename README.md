@@ -6,17 +6,37 @@ salary-analysis-for-developers
 # Project description
 Our objective is to find if there are any relations or significant factors that affect the salary of developer jobs in the current market.
 
-Link: [Source Link](https://insights.stackoverflow.com/survey)
+Survey_results_public: [Source Link](https://insights.stackoverflow.com/survey)
 
+* Data Cleaning Methods used
+    *  Histogram to check the skewness of the data
+    *  Dropping rows that contain extreme outliers
+    *  taking care of ull/missing values in the dataset 
+    *  Dropping duplicates in the dataset
+    *  Dropping of unnecessary columns in the dataset
+   
+* Analysis questions
+   *  1. Impact of region on salary 
+   *  2. How does level of education affect the salary
+   *  3. Years of experience in relation to salary 
+   *  4. Organization Size in relation to salary 
+   *  5. Impact of Job title to salary 
+   *  6. Impact of sexuality on Salary 
+   *  7. Types of skills possesed and how it affects the salary 
+   *  8. Impact of gender on salary
+   *  9. Imapct of ethnicity on salary
 
-
+## Needs of this project
+- data exploration/descriptive statistics
+- data processing/cleaning - involves taking care of missing data, outliers and duplicates 
+- Data Repoort 
 
 # Author(s) information
-Joseph Kirika
-Norah Ekuttan
-Alex Gathuri
-Raphael Mukui
-Wanjiru Kinyara
+Joseph Kirika,
+Norah Ekuttan,
+Alex Gathuri,
+Raphael Mukui,
+Wanjiru Kinyara,
 
 
 # Setup instructions
